@@ -1,0 +1,11 @@
+total 380
+drwxrwxr-x 2 sergii sergii  4096 жов 20 23:13 ./
+drwxrwxr-x 7 sergii sergii  4096 жов 20 23:10 ../
+-rw-rw-r-- 1 sergii sergii     0 жов 20 23:13 im.txt
+-rw-rw-r-- 1 sergii sergii 77998 жов 20 22:56 Screenshot from 2020-10-20 22-56-40.png
+-rw-rw-r-- 1 sergii sergii 25993 жов 20 22:57 Screenshot from 2020-10-20 22-57-44.png
+-rw-rw-r-- 1 sergii sergii 51059 жов 20 22:59 Screenshot from 2020-10-20 22-58-54.png
+-rw-rw-r-- 1 sergii sergii 23849 жов 20 22:59 Screenshot from 2020-10-20 22-59-39.png
+-rw-rw-r-- 1 sergii sergii 25217 жов 20 23:00 Screenshot from 2020-10-20 23-00-06.png
+-rw-rw-r-- 1 sergii sergii 98539 жов 20 23:01 Screenshot from 2020-10-20 23-01-06.png
+-rw-rw-r-- 1 sergii sergii 58588 жов 20 23:01 Screenshot from 2020-10-20 23-01-28.png
